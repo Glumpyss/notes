@@ -1,8 +1,5 @@
 # GAME WEBSITES, PROXYS, ETC
-
-
-
-
+## <span style="color: red;">Some of these may not work, ive not tested them.</span>
 
 https://infinitetutoring.com.au/english/
 
